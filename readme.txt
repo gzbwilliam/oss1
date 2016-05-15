@@ -1,3 +1,1 @@
-Abc
-123456
-AAAAAAAAAAA
+Git is a good tool.
