@@ -1,2 +1,2 @@
 Git is a good tool.
-We like it.
+Git is a free software.
